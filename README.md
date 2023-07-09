@@ -36,6 +36,14 @@ Caso queira ver a apresentação do projeto desenvolvido por parte dos integrant
 
 ![300 - Longest Increasing Subsequence](assets/300_LongestIncreasingSubsequence.png)
 
+### [309] *Best Time to Buy and Sell Stock with Cooldown*
+
+[**Link do Problema**](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+
+[**Resposta Comentada**](./exercises/309_BestTimeBuySellStockCooldown/commented/309_BestTimeBuySellStockCooldown.md)
+
+![300 - Longest Increasing Subsequence](assets/309_BestTimeBuySellStockCooldown.png)
+
 ## Instalação
 
 **Linguagens**: *C++* (C++17) e *Python 3.8*<br>
