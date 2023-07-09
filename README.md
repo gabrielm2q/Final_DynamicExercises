@@ -20,13 +20,29 @@ Caso queira ver a apresentação do projeto desenvolvido por parte dos integrant
 
 ## Screenshots
 
-## [000] *Nome do Exercício*
+### [000] *Nome do Exercício*
 
 [**Link do Problema**](https://google.com)
 
 [**Resposta Comentada**](./exercises/000_Template/commented/000_Template.md)
 
 <!-- ![000 - Nome do Exercício](assets/imagem_do_exercicio.png) -->
+
+### [300] *Longest Increasing Subsequence*
+
+[**Link do Problema**](https://leetcode.com/problems/longest-increasing-subsequence/)
+
+[**Resposta Comentada**](./exercises/300_LongestIncreasingSubsequence/commented/300_LongestIncreasingSubsequence.md)
+
+![300 - Longest Increasing Subsequence](assets/300_LongestIncreasingSubsequence.png)
+
+### [309] *Best Time to Buy and Sell Stock with Cooldown*
+
+[**Link do Problema**](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+
+[**Resposta Comentada**](./exercises/309_BestTimeBuySellStockCooldown/commented/309_BestTimeBuySellStockCooldown.md)
+
+![300 - Longest Increasing Subsequence](assets/309_BestTimeBuySellStockCooldown.png)
 
 ## Instalação
 
