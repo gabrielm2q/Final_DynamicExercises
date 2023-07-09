@@ -42,7 +42,15 @@ Caso queira ver a apresentação do projeto desenvolvido por parte dos integrant
 
 [**Resposta Comentada**](./exercises/309_BestTimeBuySellStockCooldown/commented/309_BestTimeBuySellStockCooldown.md)
 
-![300 - Longest Increasing Subsequence](assets/309_BestTimeBuySellStockCooldown.png)
+![309 - Best Time to Buy and Sell Stock with Cooldown](assets/309_BestTimeBuySellStockCooldown.png)
+
+### [CSES] *Minimizing Coins*
+
+[**Link do Problema**](https://cses.fi/problemset/task/1634)
+
+[**Resposta Comentada**](./exercises/CSES_MinimizingCoins/commented/minimizing_coins.md)
+
+![CSES - Minimizing Coins](assets/CSES_Minimizingcoins.png)
 
 ## Instalação
 
