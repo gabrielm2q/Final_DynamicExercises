@@ -29,15 +29,14 @@ int main()
 
     cin >> n >> x;
     
-    vector<ll> coins(n+1);
+    vector<ll> coins(n+10);
 
     for (int i = 0; i < n; i++)
     {
-        cin >> temp;
-        coins.push_back(temp);
+        cin >> coins[i];
     }
 
-    cout << solve(coins, x, n) << endl;
+    cout << solve(coins, n, x) << endl;
     
     return 0;
 }
