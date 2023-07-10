@@ -20,14 +20,6 @@ Caso queira ver a apresentação do projeto desenvolvido por parte dos integrant
 
 ## Screenshots
 
-### [000] *Nome do Exercício*
-
-[**Link do Problema**](https://google.com)
-
-[**Resposta Comentada**](./exercises/000_Template/commented/000_Template.md)
-
-<!-- ![000 - Nome do Exercício](assets/imagem_do_exercicio.png) -->
-
 ### [300] *Longest Increasing Subsequence*
 
 [**Link do Problema**](https://leetcode.com/problems/longest-increasing-subsequence/)
@@ -48,7 +40,7 @@ Caso queira ver a apresentação do projeto desenvolvido por parte dos integrant
 
 [**Link do Problema**](https://cses.fi/problemset/task/1634)
 
-[**Resposta Comentada**](./exercises/CSES_MinimizingCoins/commented/minimizing_coins.md)
+[**Resposta Comentada**](./exercises/CSES_MinimizingCoins/commented/cses_minimizingcoins.md)
 
 ![CSES - Minimizing Coins](assets/CSES_Minimizingcoins.png)
 

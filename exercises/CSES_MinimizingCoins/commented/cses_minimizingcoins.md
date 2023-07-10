@@ -1,3 +1,10 @@
+# Exercício do *CSES*: *Minimizing Coins*
+
+[**Link do Problema**](https://cses.fi/problemset/task/1634)
+
+## Código comentado
+
+```
 #include <bits/stdc++.h>
 
 using ll = long long int;
@@ -47,3 +54,4 @@ int main()
     
     return 0;
 }
+```
