@@ -8,12 +8,15 @@ ll solve(vector<ll> coins, ll n, ll x){
 
     for (ll i = 1; i <= x; i++)
     {
+        //O vetor é inicializado com um valor máximo (INT_MAX) para cada posição
+        //O vetor dp[i] representa o número mínimo de moedas necessárias para obter a soma exata de i.
         dp[i] = INT_MAX;
 
         for (ll j = 0; j < n; j++)
         {
             if ((i - coins[j]) >= 0)
             {
+                //A quantidade mínima de moedas para obter a soma i é o mínimo entre o valor atual de dp[i] e dp[i - coins[j]] + 1,
                 dp[i] = min(dp[i],dp[i-coins[j]]+1);
             }   
         }
