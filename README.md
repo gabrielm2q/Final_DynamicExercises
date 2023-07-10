@@ -52,6 +52,14 @@ Caso queira ver a apresentação do projeto desenvolvido por parte dos integrant
 
 ![CSES - Minimizing Coins](assets/CSES_Minimizingcoins.png)
 
+### [CSES] *Edit Distance*
+
+[**Link do Problema**](https://cses.fi/problemset/task/1639/)
+
+[**Resposta Comentada**](./exercises/CSES_EditDistance/commented/cses_editdistance.md)
+
+![CSES - Edit Distance](assets/CSES_EditDistance.png)
+
 ## Instalação
 
 **Linguagens**: *C++* (C++17) e *Python 3.8*<br>
