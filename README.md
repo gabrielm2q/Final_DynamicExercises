@@ -20,14 +20,6 @@ Caso queira ver a apresentação do projeto desenvolvido por parte dos integrant
 
 ## Screenshots
 
-### [000] *Nome do Exercício*
-
-[**Link do Problema**](https://google.com)
-
-[**Resposta Comentada**](./exercises/000_Template/commented/000_Template.md)
-
-<!-- ![000 - Nome do Exercício](assets/imagem_do_exercicio.png) -->
-
 ### [300] *Longest Increasing Subsequence*
 
 [**Link do Problema**](https://leetcode.com/problems/longest-increasing-subsequence/)
@@ -44,11 +36,19 @@ Caso queira ver a apresentação do projeto desenvolvido por parte dos integrant
 
 ![309 - Best Time to Buy and Sell Stock with Cooldown](assets/309_BestTimeBuySellStockCooldown.png)
 
+### [1286] *Motoboy*
+
+[**Link do Problema**](https://www.beecrowd.com.br/judge/en/problems/view/1286)
+
+[**Resposta Comentada**](./exercises/1286_Motoboy/commented/1286_Motoboy.md)
+
+![1286 - Motoboy](assets/1286_Motoboy.png)
+
 ### [CSES] *Minimizing Coins*
 
 [**Link do Problema**](https://cses.fi/problemset/task/1634)
 
-[**Resposta Comentada**](./exercises/CSES_MinimizingCoins/commented/minimizing_coins.md)
+[**Resposta Comentada**](./exercises/CSES_MinimizingCoins/commented/cses_minimizingcoins.md)
 
 ![CSES - Minimizing Coins](assets/CSES_Minimizingcoins.png)
 
