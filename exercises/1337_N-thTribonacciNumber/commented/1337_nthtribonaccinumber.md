@@ -1,3 +1,10 @@
+# Exercício do *CSES*: *Nth Tribonacci Number*
+
+[**Link do Problema**](https://leetcode.com/problems/n-th-tribonacci-number/)
+
+## Código comentado
+
+```
 #include <vector>
 
 using namespace std;
@@ -37,3 +44,4 @@ public:
         return recursion(n, dp);
     }
 };
+``` 
