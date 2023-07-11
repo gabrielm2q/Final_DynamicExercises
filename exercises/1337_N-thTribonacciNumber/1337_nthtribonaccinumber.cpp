@@ -23,9 +23,9 @@ public:
     }
 
     int tribonacci(int n) {
-       vector<int> dp(n+10, -1); 
-       dp[0] = 0;
+        vector<int> dp(n+10, -1); 
+        dp[0] = 0;
 
-       return recursion(n, dp);
+        return recursion(n, dp);
     }
 };
