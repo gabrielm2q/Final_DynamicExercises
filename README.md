@@ -60,6 +60,14 @@ Caso queira ver a apresentação do projeto desenvolvido por parte dos integrant
 
 ![CSES - Edit Distance](assets/CSES_EditDistance.png)
 
+### [1137-NthTribonacciNumber] *N-th Tribonacci Number*
+
+[**Link do Problema**](https://leetcode.com/problems/n-th-tribonacci-number/)
+
+[**Resposta Comentada**](./exercises/1337_N-thTribonacciNumber/commented/1337_nthtribonaccinumber.md)
+
+![1137 - Nth Tribonacci Number](assets/1337_nthtribifonaccinumber.png)
+
 ## Instalação
 
 **Linguagens**: *C++* (C++17) e *Python 3.8*<br>
