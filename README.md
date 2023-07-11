@@ -12,11 +12,11 @@
 
 ## Sobre
 
-Este projeto teve como foco a resolução de problemas de **Programação Dinâmica** (*Dynamic Programming*) nas plataformas **LeetCode**, **BeeCrowd** e **CodeForces**.
+Este projeto teve como foco a resolução de problemas de **Programação Dinâmica** (*Dynamic Programming*) nas plataformas **LeetCode**, **BeeCrowd** e **CSES**.
 
 ## Apresentação
 
-Caso queira ver a apresentação do projeto desenvolvido por parte dos integrantes da equipe, basta acessar o [**LINK DO YOUTUBE**](https://www.youtube.com) ou então baixar o vídeo completo no [**LINK DO VÍDEO**](https://www.youtube.com).
+Caso queira ver a apresentação do projeto desenvolvido por parte dos integrantes da equipe, basta acessar o [**LINK DO VÍDEO NO YOUTUBE**](https://www.youtube.com) ou então baixar o vídeo completo no [**LINK DO VÍDEO NO REPOSITÓRIO**](https://www.youtube.com).
 
 ## Screenshots
 
